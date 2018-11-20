@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Italianno');
 .title{
-  color: green;
-  font-family: 'Italianno', cursive;
-}
+  color: #32cd32;
+  font-family: 'Italianno';
+  font-size: 150px;
+  }
